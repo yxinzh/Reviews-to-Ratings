@@ -1,5 +1,5 @@
 # Analyzing Customer Reviews on Apparel 
 Introduction to AI, Carnegie Mellon University
 
-Using 
+Dataset: https://amazon-reviews-2023.github.io/
 
